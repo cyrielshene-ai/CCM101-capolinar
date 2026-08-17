@@ -67,5 +67,21 @@ The following screenshots should be included as evidence of the Linux investigat
 3. **Memory:** KillerCoda terminal showing the output of `free -h`.
 4. **Disk Space:** KillerCoda terminal showing the output of `df -h`.
 
+#### Operating System
+
+![Linux Operating System](linux-os.png)
+
+#### CPU Information
+
+![CPU Information](linux-cpu.png)
+
+#### Memory
+
+![Memory Information](linux-memory.png)
+
+#### Disk Space
+
+![Disk Space](linux-disk.png)
+
 
 
