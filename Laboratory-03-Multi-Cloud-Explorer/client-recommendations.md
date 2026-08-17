@@ -68,3 +68,19 @@ AWS is a strong choice for a global e-commerce company because it provides a bro
 ## Conclusion
 
 The best cloud platform depends on the specific business requirements of each client. AWS, Azure, and GCP each provide different strengths, so the recommended provider should be selected based on factors such as existing technology, workload requirements, scalability, and business goals.
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform        | Justification                                                                                                                                |
+| ----------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Startup Company         | Google Cloud Platform (GCP) | GCP provides scalable and flexible cloud services that can support startups as their applications and workloads grow.                        |
+| Enterprise Organization | Amazon Web Services (AWS)   | AWS offers a broad range of services and mature cloud infrastructure suitable for complex enterprise workloads.                              |
+| Microsoft Environment   | Microsoft Azure             | Azure provides strong integration with Windows Server, Microsoft 365, Active Directory, and other Microsoft technologies.                    |
+| AI / Machine Learning   | Google Cloud Platform (GCP) | GCP provides strong AI and machine learning capabilities, including services designed for developing and deploying ML applications.          |
+| Kubernetes Deployment   | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service built around Google's Kubernetes technology.                       |
+| Global Web Application  | Amazon Web Services (AWS)   | AWS provides global infrastructure, scalable compute services, load balancing, and other capabilities for highly available web applications. |
+
+## Decision Matrix Summary
+
+The decision matrix demonstrates that there is no single cloud provider that is best for every business requirement. AWS is a strong choice for broad enterprise and global workloads, Azure is well suited for Microsoft-based environments, and GCP is particularly strong for AI, machine learning, and Kubernetes deployments.
+
